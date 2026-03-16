@@ -15,7 +15,7 @@ title: Lorde Hadrian Alquamar
 
 ## O que sabemos
 
-Lorde Hadrian Alquamar, sessenta e oito anos, recebeu o grupo no Palácio de Cristal durante a madrugada, a pedido de Celestine. Sentado com postura rigida no Salão Principal -- sala circular com paredes de cristal que refratam a aurora -- ele examinou cada aventureiro com cálculo aristocrático: quanto valem, quanto custam, quanto sabem.
+Lorde Hadrian Alquamar, sessenta e oito anos, recebeu o grupo no Palácio de Cristal durante a madrugada, a pedido de Celestine. Sentado com postura rígida no Salão Principal -- sala circular com paredes de cristal que refratam a aurora -- ele examinou cada aventureiro com cálculo aristocrático: quanto valem, quanto custam, quanto sabem.
 
 Apesar da frieza, o amor por Celestine ficou evidente nas mãos que se crispavam ao ouvir sobre o estado de Aldren. Ofereceu recursos ao grupo: dinheiro para a jornada, acesso ao laboratório de Mestre Corvinus, e mapas de rotas antigas. Em troca, pediu que qualquer evidência sobre os responsáveis fosse trazida a ele primeiro -- antes da Marcha, antes do Conselho.
 

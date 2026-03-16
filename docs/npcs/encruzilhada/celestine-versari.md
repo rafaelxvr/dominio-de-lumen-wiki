@@ -17,13 +17,13 @@ title: Dama Celestine Versari
 
 Celestine Versari, humana, quarenta e cinco anos, foi resgatada pelo grupo no Forte Versari. Era alvo de uma conspiração envolvendo os Costuradores, que a envenenaram com o Soro da Nona Vela e manipularam suas memórias. Após o resgate, tornou-se aliada ativa dos aventureiros.
 
-Seu marido, Lord Aldren Versari, encontra-se em estado catatonico -- uma condicao conhecida como "Apagamento", na qual a identidade foi desconectada da alma. Celestine organizou a reuniao no Palácio de Cristal, sua casa de infância, em busca de recursos e tratamento para Aldren.
+Seu marido, Lord Aldren Versari, encontra-se em estado catatônico -- uma condição conhecida como "Apagamento", na qual a identidade foi desconectada da alma. Celestine organizou a reunião no Palácio de Cristal, sua casa de infância, em busca de recursos e tratamento para Aldren.
 
-Apesar das memórias fragmentadas, momentos de lucidez revelam a mulher astuta e protetora que ela era. Sua determinacao em salvar o marido e desmascarar quem fez isso com sua família a tornou uma aliada ferozmente leal.
+Apesar das memórias fragmentadas, momentos de lucidez revelam a mulher astuta e protetora que ela era. Sua determinação em salvar o marido e desmascarar quem fez isso com sua família a tornou uma aliada ferozmente leal.
 
 ## Conexões
 
-- **Casa Versari** -- matriarca por casamento; seu marido Aldren jaz catatonico no forte.
+- **Casa Versari** -- matriarca por casamento; seu marido Aldren jaz catatônico no forte.
 - **Casa Alquamar** -- filha de Lorde Hadrian; cresceu no Palácio de Cristal.
 - **Ama Selene** -- criada pessoal e confidente desde a infância.
 - **O grupo** -- aliada após o resgate; pediu que encontrassem os responsáveis.

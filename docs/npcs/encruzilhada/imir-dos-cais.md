@@ -17,9 +17,9 @@ title: Imir dos Cais
 
 Imir dos Cais é o rosto público do Sindicato nas docas de Encruzilhada. Humano, quarenta e cinco anos, conhecido como "A Voz das Docas". Surgiu nos portos há anos, construindo uma rede de influência entre trabalhadores e contrabandistas. Sua origem exata permanece nebulosa -- ele a mantém assim deliberadamente.
 
-O grupo o encontrou oferecendo trabalho, proteção e esperança para os desesperados do porto. Mestre em ler pessoas, Imir diz exatamente o que cada um precisa ouvir. Nunca perde a compostura, nunca se expõe. Constrói lealdades através de favores e dividas.
+O grupo o encontrou oferecendo trabalho, proteção e esperança para os desesperados do porto. Mestre em ler pessoas, Imir diz exatamente o que cada um precisa ouvir. Nunca perde a compostura, nunca se expõe. Constrói lealdades através de favores e dívidas.
 
-Ofereceu seus servicos ao grupo e demonstrou conhecer os movimentos pela cidade. Seu alcance nas docas é vasto -- trabalhadores portuários o seguem com devoção.
+Ofereceu seus serviços ao grupo e demonstrou conhecer os movimentos pela cidade. Seu alcance nas docas é vasto -- trabalhadores portuários o seguem com devoção.
 
 ## Conexões
 
