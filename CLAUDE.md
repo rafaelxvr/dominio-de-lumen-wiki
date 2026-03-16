@@ -69,7 +69,8 @@ docs/
 │   ├── a-apostasia.md                # O cataclismo que destruiu a civilização
 │   ├── a-umbra.md                    # A ameaça existencial
 │   ├── as-piras-sagradas.md          # Sistema de proteção das Piras
-│   └── tempestades-umbrais.md        # Fenômeno natural das tempestades
+│   ├── tempestades-umbrais.md        # Fenômeno natural das tempestades
+│   └── ancestralidades.md           # Os 18 povos do Domínio
 ├── locais/                           # Localizações
 │   ├── _category_.json
 │   ├── encruzilhada.md               # Detalhado (visitado)
@@ -106,6 +107,7 @@ docs/
 └── ameacas/                          # Criaturas e perigos
     ├── _category_.json
     ├── criaturas-umbrais.md          # Bestas da Umbra
+    ├── criaturas.md                  # Escardões, Escardins, Carniçal da Maré, etc.
     └── praga-da-alma.md              # Mortos que se erguem
 ```
 
