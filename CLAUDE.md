@@ -75,10 +75,11 @@ docs/
 │   ├── _category_.json
 │   ├── encruzilhada.md               # Detalhado (visitado)
 │   ├── sino.md                       # Detalhado (visitado)
-│   ├── veu.md                        # Breve (não visitado)
-│   ├── urna.md                       # Breve (não visitado)
-│   ├── trono-de-deus.md              # Breve (não visitado)
-│   ├── pavio.md                      # Breve (não visitado)
+│   ├── espinho.md                    # Detalhado (não visitado, handout)
+│   ├── veu.md                        # Detalhado (não visitado, handout)
+│   ├── urna.md                       # Detalhado (não visitado, handout)
+│   ├── trono-de-deus.md              # Detalhado (não visitado, handout)
+│   ├── pavio.md                      # Detalhado (não visitado, handout)
 │   └── ponte-das-correntes.md        # Detalhado (atravessado)
 ├── faccoes/                          # Organizações e facções
 │   ├── _category_.json
