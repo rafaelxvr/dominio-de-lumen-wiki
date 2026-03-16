@@ -8,7 +8,7 @@ sidebar_position: 6
 
 A fé no Domínio de Lúmen é uma questão de sobrevivência antes de ser uma questão de alma. Sem as Piras Sagradas, a Umbra engole tudo. Sem alguém para alimentar as Piras, as chamas morrem. E sem fé — ou ao menos medo — ninguém alimenta coisa alguma.
 
-Três correntes religiosas disputam o coração espiritual do Domínio: os ecos dos **deuses antigos** que se calaram, o culto imperial da **Unidade** que tenta preencher o vazio, e as **práticas populares** que nasceram do desespero de quem vive entre as duas.
+Quatro correntes religiosas disputam o coração espiritual do Domínio: os ecos dos **deuses antigos** que se calaram, o culto imperial da **Unidade** que tenta preencher o vazio, as **práticas populares** que nasceram do desespero de quem vive entre as duas — e um **credo crescente** que prega que a chama não é apenas proteção, mas destino.
 
 ---
 
@@ -91,6 +91,88 @@ A fé na Pira não é unificada. Dois grupos disputam o direito de cuidar da cha
 Ambos servem à mesma chama. Nenhum confia no outro. E entre eles, a política de Encruzilhada ferve.
 
 Para mais detalhes, veja [Guardiões da Pira e Portadores da Cinza](/wiki/faccoes/guardioes-da-pira).
+
+---
+
+## O Credo da Chama Eterna — A Fé que Cresce
+
+> *"Toda sombra é uma mentira esperando para ser queimada."*
+
+Enquanto os deuses antigos permanecem em silêncio e a Unidade exige obediência cega, uma nova fé se espalha — pequena, fervorosa e perigosa. O **Credo da Chama Eterna** não pede que seus seguidores rezem para uma chama na praça ou obedeçam a um imperador distante. Pede que **lutem**. Que a escuridão não é apenas ausência — é inimiga. E que a chama não é apenas proteção — é arma, verdade e destino.
+
+### A Doutrina
+
+O Credo prega a existência de uma divindade chamada **Aurelion, a Chama Eterna** — a Luz Inextinguível, Coração da Criação. Seus domínios são Luz, Fogo, Conhecimento, Ordem e Guerra. Para os seguidores do Credo, a existência é uma batalha cósmica entre duas forças:
+
+| Força | Significado |
+|-------|-------------|
+| **A Chama Eterna** | Vida, calor, verdade, memória, destino |
+| **O Silêncio Devorador** | Frio, entropia, esquecimento, mentira, vazio |
+
+Não há meio-termo. Não há neutralidade. Viver é escolher um lado.
+
+### Os Seis Dogmas
+
+Os ensinamentos do Credo se sustentam em seis princípios fundamentais:
+
+1. **A Luz Revela a Verdade** — a ignorância é a arma da escuridão
+2. **O Sacrifício Alimenta a Salvação** — poder exige oferenda
+3. **A Profecia é Imperfeita, Não Falsa** — o erro é humano, não divino
+4. **Misericórdia sem Propósito é Crueldade** — poupar o mal é fortalecê-lo
+5. **O Escolhido Sempre Retorna** — cada era produz um campeão
+6. **O Fogo Purifica** — corrupção não se negocia, se limpa
+
+### Práticas
+
+Os fiéis do Credo seguem rituais simples mas carregados de significado:
+
+- **Oração da Aurora** — ao nascer do sol (ou na hora que seria o nascer, sob a penumbra eterna), aquecer as mãos sobre uma chama e declarar uma verdade em voz alta. Mentir durante a prece é considerado espiritualmente perigoso
+- **Augúrio pela Chama** — sacerdotes interpretam a vontade divina lendo o comportamento do fogo — cor, intensidade, direção das faíscas
+- **Oferendas** — escalam em gravidade: comida para bênçãos menores, riqueza para orientação, sangue para poder, vida para milagre
+- **As Três Queimas** — votos sagrados que todo fiel jura: *queime a mentira, queime a corrupção, queime o desespero*
+
+### Dias Sagrados
+
+| Celebração | Significado |
+|------------|-------------|
+| **Vigília da Noite Longa** | Solstício de inverno — nenhuma chama pode se apagar |
+| **Primeira Brasa** | Ritual de ano novo — reacender os fogos sagrados |
+| **Comunhão das Cinzas** | Fiéis marcam a testa com cinza sagrada |
+
+### Hierarquia
+
+| Posto | Título |
+|-------|--------|
+| Iniciado | Acendido |
+| Sacerdote | Guardião da Chama |
+| Sumo sacerdote | Farol |
+| Profeta | Vidente da Brasa |
+| Pontífice | Pirofante |
+
+### O Credo em Encruzilhada
+
+O Credo da Chama Eterna é pequeno — dezenas de fiéis, não milhares. Mas cresce. Seus seguidores são os que ninguém mais quer: doentes, pobres, escravizados, esquecidos, viúvas, desertores. Gente que não tem nada a perder e encontrou algo em que acreditar.
+
+Em [Encruzilhada](/wiki/locais/encruzilhada), o Credo é liderado pelo **Cavaleiro-em-Trapos** — um homem coberto em bandagens da cabeça aos pés, com olhos azuis visíveis através das faixas, que prega nas ruas e cura os que sofrem — absorvendo a dor alheia em sua própria carne. Ninguém sabe seu nome verdadeiro. Alguns o chamam de Penitente. Outros sussurram "Rei Coberto em Faixas". Seu pequeno bando de seguidores, chamados **Os Esquecidos**, carrega velas e caminha pelas vielas cantando cânticos que o Imperium proíbe.
+
+A **Procissão dos Círios** — fiéis carregando velas acesas pelas ruas em direção ao Farol de Lúmen — é um ato de fé que é também um ato de desafio. O Imperium a considera heresia. A [Marcha](/wiki/faccoes/a-marcha) a considera desordem. O Excidium a observa com atenção calculada, esperando o momento certo para agir.
+
+E ainda assim, a cada noite, mais uma vela se acende.
+
+### Inimigos Declarados
+
+O Credo condena como servos do Silêncio Devorador:
+
+- **Mortos-vivos** e qualquer forma de animação profana
+- **Aberrações** nascidas da [Umbra](/wiki/o-mundo/a-umbra)
+- Entidades que apagam memórias ou distorcem identidades
+- Seres que rejeitam o destino natural da vida
+
+O Credo também condena certas práticas como heresia: cultos que pregam equilíbrio entre luz e sombra (*"o equilíbrio sustenta a escuridão"*), necromancia, e ordens pacifistas que permitem ao mal sobreviver por inação.
+
+### A Tensão com a Unidade
+
+Para o Excidium, o Credo da Chama Eterna é uma ameaça sutil — mais perigosa que um herege comum porque fala a língua da fé. Onde a Unidade exige obediência ao Imperador, o Credo exige obediência à chama. Onde a Unidade prega submissão, o Credo prega ação. São linguagens semelhantes com conclusões opostas — e isso torna o Credo impossível de ignorar e difícil de destruir sem criar mártires.
 
 ---
 
