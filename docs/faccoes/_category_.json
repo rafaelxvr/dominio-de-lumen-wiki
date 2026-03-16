@@ -1,0 +1,8 @@
+{
+  "label": "Facções",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "As organizações que movem o Domínio de Lúmen."
+  }
+}

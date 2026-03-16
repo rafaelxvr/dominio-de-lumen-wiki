@@ -1,0 +1,60 @@
+:root {
+  --ifm-color-primary: #b8860b;
+  --ifm-color-primary-dark: #a57a0a;
+  --ifm-color-primary-darker: #9c7309;
+  --ifm-color-primary-darkest: #805f08;
+  --ifm-color-primary-light: #cb940c;
+  --ifm-color-primary-lighter: #d49d0d;
+  --ifm-color-primary-lightest: #e8b230;
+  --ifm-background-color: #1a1a1a;
+  --ifm-font-color-base: #e0d6c8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #d4a017;
+  --ifm-color-primary-dark: #bf9015;
+  --ifm-color-primary-darker: #b48814;
+  --ifm-color-primary-darkest: #947010;
+  --ifm-color-primary-light: #e0ad2a;
+  --ifm-color-primary-lighter: #e3b33a;
+  --ifm-color-primary-lightest: #eac464;
+  --ifm-background-color: #0d0d0d;
+  --ifm-font-color-base: #e8ddd0;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Blockquote styling for in-world epigraphs */
+blockquote {
+  border-left-color: var(--ifm-color-primary);
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Navbar dark styling */
+.navbar {
+  background-color: #111111;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+[data-theme='dark'] .navbar {
+  background-color: #0a0a0a;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+/* Secondary and accent colors */
+:root {
+  --ifm-color-secondary: #4a4a4a;
+  --ifm-color-danger: #8b0000;
+}
+
+[data-theme='dark'] {
+  --ifm-color-secondary: #3a3a3a;
+  --ifm-color-danger: #a02020;
+}
+
+/* Footer */
+.footer--dark {
+  background-color: #0a0a0a;
+}

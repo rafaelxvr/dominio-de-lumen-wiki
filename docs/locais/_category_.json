@@ -1,0 +1,8 @@
+{
+  "label": "Locais",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Cidades, vilas e estradas do Domínio de Lúmen."
+  }
+}

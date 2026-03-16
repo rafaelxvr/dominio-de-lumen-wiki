@@ -1,0 +1,8 @@
+{
+  "label": "Personagens",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "NPCs encontrados durante a campanha."
+  }
+}

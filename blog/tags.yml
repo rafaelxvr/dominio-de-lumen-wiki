@@ -1,0 +1,29 @@
+sessao:
+  label: Sessão
+  permalink: /sessao
+  description: Registros de sessões jogadas
+
+encruzilhada:
+  label: Encruzilhada
+  permalink: /encruzilhada
+  description: Eventos em Encruzilhada
+
+sino:
+  label: Sino
+  permalink: /sino
+  description: Eventos em Sino
+
+combate:
+  label: Combate
+  permalink: /combate
+  description: Sessões com encontros de combate
+
+exploracao:
+  label: Exploração
+  permalink: /exploracao
+  description: Sessões focadas em exploração
+
+politica:
+  label: Política
+  permalink: /politica
+  description: Sessões com intriga política

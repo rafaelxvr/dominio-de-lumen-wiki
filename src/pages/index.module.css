@@ -1,0 +1,21 @@
+.heroBanner {
+  padding: 4rem 0 2rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem 1rem;
+  }
+}
+
+.heroTitle {
+  font-size: 3rem;
+  color: var(--ifm-color-primary);
+}
+
+.heroSubtitle {
+  font-size: 1.2rem;
+  opacity: 0.7;
+  font-style: italic;
+}
