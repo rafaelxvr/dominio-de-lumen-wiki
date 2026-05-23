@@ -34,4 +34,4 @@ Depois de dias de névoa e rastro, finalmente cara a cara. O que aconteceria a s
 | Perseguição no Bosque | O grupo atravessou armadilhas e emboscadas na névoa |
 | Atirador na névoa | Hostilizou o grupo à distância, sem se deixar pegar |
 | Murmúrios desafinados | Algo no canto do comboio soava errado |
-| Comboio alcançado | A carroça da Arca foi encurralada na Porta das Costelas; confronto iminente |
+| Comboio alcançado | A carroça com a carga selada foi encurralada na Porta das Costelas; confronto iminente |

@@ -13,7 +13,7 @@ Sino ficou para trás. À frente, a floresta de vidro e a carga que ninguém dev
 
 ## O que ficou para trás em Sino
 
-Antes de partir, o grupo já havia juntado as peças do que se passava em Sino. No **Armazém Velho** encontraram o intermediário **Marlon "Sino"** e os papéis dele — o **Manifesto de Carga** e uma nota sobre a **Agulha de Âmbar Umbral**. A conclusão era desconfortável: a tal **Arca da Maré Cega** não é relíquia de colecionador, e sim uma **arma antiga** sendo movida em segredo pelos [Costuradores](/wiki/faccoes/os-costuradores) — parte de uma trama que aponta para um **assassinato**.
+Antes de partir, o grupo já havia juntado as peças do que se passava em Sino. No **Armazém Velho** encontraram o intermediário **Marlon "Sino"** e os papéis dele — o **Manifesto de Carga** e uma nota sobre uma **Agulha** guardada na carga. A conclusão era desconfortável: a **caixa selada** que o comboio levava não é relíquia de colecionador, e sim algo **antigo e perigoso**, movido em segredo pelos [Costuradores](/wiki/faccoes/os-costuradores) — parte de uma trama que aponta para um **assassinato**.
 
 Quando o grupo se preparou para agir, a carga já não estava parada: havia sido carregada num **comboio** que deixou a vila pela estrada do vale.
 
@@ -35,6 +35,6 @@ O grupo apertou o passo. A caçada tinha começado.
 
 | Evento | Resultado |
 |--------|-----------|
-| Saída de Sino | O grupo deixou a vila atrás do comboio da Arca |
+| Saída de Sino | O grupo deixou a vila atrás do comboio que levava a carga |
 | Rastro localizado | A trilha do comboio entra no Bosque Âmbar |
 | Início da travessia | O grupo comprometeu-se com a perseguição pela floresta de resina |
