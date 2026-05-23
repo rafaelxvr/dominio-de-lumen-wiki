@@ -23,8 +23,13 @@ As caravanas aprenderam a ignorá-la. Os guardas a tratam como parte da paisagem
 
 Balduíno a considerou herege, criando tensão entre sua fé ortodoxa e a evidência de poder divino real em uma penitente.
 
+## Depois do Fragmento
+
+Irmã Valkara reapareceu mais tarde **entre o comboio capturado no [Bosque Âmbar](/wiki/locais/bosque-ambar)**, gravemente ferida. Quando o canto dos Murmúrios cessou na **Porta das Costelas** e a poeira baixou, ela **ergueu-se transformada** — e passou a acompanhar o grupo, a serviço de Balduíno. O que exatamente mudou nela, ninguém soube dizer ainda.
+
 ## Conexões
 
 - **Fragmento do Colosso** -- acorrentada à estrutura divina, parte da paisagem sagrada.
+- **Bosque Âmbar** -- reencontrada entre o comboio; ergueu-se transformada após o confronto.
 - **Lyos** -- o bracelete drenou parcialmente seu poder; conexão metafísica estabelecida.
 - **Balduíno** -- tensão teológica; ele a considera herege apesar de seu poder real.
