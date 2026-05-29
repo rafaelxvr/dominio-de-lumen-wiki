@@ -6,13 +6,13 @@ sidebar_position: 8
 
 > *"Purificar é resistir. Era o que gritávamos enquanto as fornalhas nos engoliam. Era o que sussurrávamos quando os Serafins cantavam. Era o que escrevíamos nas paredes com sangue e cinza. E quando acabou — quando tudo acabou — era o que os sobreviventes não conseguiam mais dizer em voz alta."*
 
-A Rebelião das Cinzas foi o maior levante popular desde a fundação do Imperium. Durou cerca de uma década, incendiou três cidades e deixou cicatrizes que o Domínio carrega até hoje — na pedra, na carne e na memória.
+A Rebelião das Cinzas foi o maior levante popular desde a fundação do Imperium. Durou cerca de quinze anos, incendiou três cidades e deixou cicatrizes que o Domínio carrega até hoje — na pedra, na carne e na memória.
 
 ---
 
 ## O Édito das Piras
 
-Trinta anos antes dos eventos atuais, o Imperium da Unidade emitiu o **Édito das Piras** — um decreto que tornava toda **Cinza Luminal** (a substância purificadora extraída das [Piras Sagradas](/wiki/o-mundo/as-piras-sagradas)) propriedade exclusiva do [Trono de Deus](/wiki/locais/trono-de-deus). As cidades-estado perderam acesso à luz que mantinha a [Umbra](/wiki/o-mundo/a-umbra) do lado de fora.
+Trinta e cinco anos antes dos eventos atuais, o Imperium da Unidade emitiu o **Édito das Piras** — um decreto que tornava toda **Cinza Luminal** (a substância purificadora extraída das [Piras Sagradas](/wiki/o-mundo/as-piras-sagradas)) propriedade exclusiva do [Trono de Deus](/wiki/locais/trono-de-deus). As cidades-estado perderam acesso à luz que mantinha a [Umbra](/wiki/o-mundo/a-umbra) do lado de fora.
 
 As consequências foram imediatas e devastadoras:
 
