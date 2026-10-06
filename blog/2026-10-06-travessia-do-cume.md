@@ -1,6 +1,6 @@
 ---
 slug: travessia-do-cume
-title: "Travessia do Cume — O Bondinho sobre o Abismo"
+title: "Travessia do Cume — O Teleférico de Carga sobre o Abismo"
 authors: [narrador]
 tags: [sessao, cume-das-vertebras, elevador-do-osso]
 ---
@@ -23,10 +23,10 @@ O grupo deixou o **Bosque Âmbar**, examinou o exterior das **Ruínas do Compass
 
 O sarcófago-selo está íntegro e foi colocado na carroça. O interior das Ruínas do Compasso Cego continua inexplorado. O disfarce de Leonar permitiu a passagem pelo acampamento da guarda.
 
-A sessão terminou com o grupo no **bondinho de carga, suspenso sobre o abismo antes do Elevador do Osso**. O próximo início de sessão está marcado como um combate sobre o bondinho.
+A sessão terminou com o grupo no **teleférico de carga, suspenso sobre o abismo antes do Elevador do Osso**. O próximo início de sessão está marcado como um combate sobre o teleférico de carga.
 
 ## Pontas abertas
 
 - Quem seguia o grupo depois das ruínas?
 - O que Leda captou dos pensamentos de Muggy?
-- Quem inicia ou compõe o combate sobre o bondinho?
+- Quem inicia ou compõe o combate sobre o teleférico de carga?
