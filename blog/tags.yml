@@ -23,6 +23,16 @@ exploracao:
   permalink: /exploracao
   description: Sessões focadas em exploração
 
+cume-das-vertebras:
+  label: Cume das Vértebras
+  permalink: /cume-das-vertebras
+  description: Eventos no Cume das Vértebras
+
+elevador-do-osso:
+  label: Elevador do Osso
+  permalink: /elevador-do-osso
+  description: Eventos na rota do Elevador do Osso
+
 politica:
   label: Política
   permalink: /politica
