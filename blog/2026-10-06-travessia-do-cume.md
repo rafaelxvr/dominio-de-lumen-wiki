@@ -25,6 +25,8 @@ O sarcófago-selo está íntegro e foi colocado na carroça. O interior das Ruí
 
 A sessão terminou com o grupo no **teleférico de carga, suspenso sobre o abismo antes do Elevador do Osso**. O próximo início de sessão está marcado como um combate sobre o teleférico de carga.
 
+*Continuação registrada em [15/10/2026 — A Voz no Elevador](/blog/a-voz-no-elevador): o confronto terminou por negociação e o grupo seguiu para o içamento vertical. O estado acima é o corte histórico da sessão de 06/10, não a posição atual.*
+
 ## Pontas abertas
 
 - Quem seguia o grupo depois das ruínas?

@@ -21,6 +21,10 @@ Uma **névoa dourada** se arrasta rente ao solo e sobe em colunas lentas. Ela fa
 
 A leste, o terreno sobe pelo **Cume das Vértebras** — uma crista de rocha exposta que se enrijece em paredões. A trilha principal estreita-se ali numa garganta apertada chamada **Porta das Costelas**: um gargalo natural por onde uma carroça mal passa, e onde quem está atrás alcança quem está à frente.
 
+## O Acesso ao Elevador
+
+Depois de sair do Bosque e recuperar o sarcófago-selo no Cume, o grupo alcançou o [Elevador do Osso](/wiki/locais/elevador-do-osso). O acesso exige primeiro atravessar um desfiladeiro num teleférico de carga. Na sessão de **15/10/2026**, a interceptação da guarda terminou por negociação; os personagens seguiram para o içamento vertical.
+
 ## Perigos
 
 - **Perder-se** é o risco mais comum: sem o som e sem referências de distância, a névoa engole grupos inteiros.

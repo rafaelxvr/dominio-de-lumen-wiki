@@ -93,6 +93,12 @@ Foi derrotado em combate durante a travessia do grupo.
 
 ---
 
+## Vermes-de-Vidro
+
+O grupo encontrou o lar dessas criaturas numa seção escavada do poço do [Elevador do Osso](/wiki/locais/elevador-do-osso). Foram descritas como semelhantes às Cobras-de-Vidro. A mãe atacou durante a subida, no encerramento da sessão de **15/10/2026**.
+
+O encontro ainda não teve desfecho registrado. Não foram estabelecidas suas fraquezas, capacidades ou uma origem umbral.
+
 ## Criaturas Umbrais
 
 Para informações sobre as bestas sombrias, amálgamas e horrores da profundeza que vagam pelo Domínio, veja [Criaturas Umbrais](/wiki/ameacas/criaturas-umbrais).

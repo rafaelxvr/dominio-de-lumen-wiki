@@ -7,7 +7,7 @@ title: Inventário do Grupo
 
 > *"Carregar poder é fácil. Difícil é dormir ao lado dele."*
 
-O que o grupo conquistou e carrega depois da [Porta das Costelas](/wiki/locais/bosque-ambar). Itens, conhecimentos e rotas que viraram patrimônio do grupo.
+O que o grupo conquistou e carrega ao longo da jornada. Última atualização: sessão de **15/10/2026**, durante a subida do [Elevador do Osso](/wiki/locais/elevador-do-osso). Itens, conhecimentos e rotas que viraram patrimônio do grupo.
 
 ---
 
@@ -15,9 +15,21 @@ O que o grupo conquistou e carrega depois da [Porta das Costelas](/wiki/locais/b
 
 Uma caixa selada do Velho Mundo, em osso e âmbar negro — o motivo de toda a perseguição. O grupo a tirou do sarcófago de pedra que a envolvia, mas **não a abriu**.
 
-**Lyos percebeu** que a caixa carrega uma **magia que mantém alguma coisa presa lá dentro**. O quê, ninguém sabe — só que está ali, e que a magia existe para que continue ali.
+**Na primeira investigação, Lyos percebeu** uma magia destinada a manter algo preso dentro da caixa. A caixa permanece **lacrada com Lyos**; o registro de 15/10 não inclui nova transferência de custódia.
 
 **Regra de bolso do grupo:** não abrir, não bater, não deixar perto de fogo descontrolado. O que está preso lá dentro não parece amigável.
+
+## O Sarcófago-Selo Recuperado
+
+O invólucro de pedra que havia sido soterrado no Cume das Vértebras foi recuperado na sessão de 06/10/2026 e colocado na carroça. O grupo atravessou o teleférico com ele a bordo antes de seguir para a subida vertical. O sarcófago externo e a caixa lacrada com Lyos são objetos distintos.
+
+## O Olho-Mãe e os Filhotes
+
+Na sessão de **15/10/2026**, o grupo experimentou os Filhotes no encaixe energético do construto do elevador. Eles não têm uma fonte independente: dependem do Olho-Mãe.
+
+O Olho-Mãe acionou a máquina. Um pedido de libertação foi ouvido através do construto, e o artefato ficou **opaco**. Não ficou registrado quem o carregava ao fim ou se foi retirado do encaixe. Sua origem e o funcionamento da fonte ainda não foram esclarecidos nessa ocasião.
+
+Mez e Muggy querem estudar fragmentos dos construtos para um projeto futuro. Nenhuma peça recolhida ficou registrada; interesse em pesquisa não equivale a um novo item no inventário.
 
 ## O Anel e o Colar do Sarcófago
 
